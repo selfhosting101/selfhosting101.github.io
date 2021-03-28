@@ -11,7 +11,6 @@
             1. SSD
             2. HDD
             3. eMMC
-            4. RAID
         5. File Systems
         6. BIOS
         7. OS
@@ -21,3 +20,15 @@
         2. DNS
         3. HTTP
         4. TLS
+3. Advanced Topics
+    1. Data Storage
+        1. SATA and SAS
+        2. Form factor
+        3. Shingled and Conventional Drives
+        4. Shucking
+        5. To ZFS or not to ZFS
+        6. 3-2-1 Backup Policy
+        7. RAID
+            1. Hardware vs. Software RAID
+            2. Filesystems
+            3. Failure Mechanisms   
