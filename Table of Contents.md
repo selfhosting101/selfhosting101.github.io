@@ -40,4 +40,17 @@
             2. Filesystems
             3. Failure Mechanisms
     2. Networking
-        1. VLANs
+        1. MAC Addresses
+        2. DHCP
+        3. ARP
+        4. VXLAN
+        5. VLAN
+    3. Virtualization
+    4. Containers
+    5. Hardware
+        1. Rackmount Server
+            1. Enterprise
+            2. Custom
+        2. NAS
+        3. Desktops/Workstations
+        4. SBCs
