@@ -18,18 +18,26 @@
         8. Out of Band Management
     5. Networking Basics
         1. TCP/IP
-        2. DNS
-        3. HTTP
-        4. TLS
-3. Advanced Topics
+        2. Routing
+        3. DNS
+        4. HTTP
+        5. TLS
+3. Self-Hosting
+    1. All the meat of self-hosting?
+4. Advanced Fundamentals
     1. Data Storage
         1. SATA and SAS
         2. Form factor
         3. Shingled and Conventional Drives
         4. Shucking
         5. To ZFS or not to ZFS
-        6. 3-2-1 Backup Policy
-        7. RAID
+        6. Backups
+            1. 3-2-1 Backup Policy
+            2. Consistency (i.e. snapshotting/database dumps)
+            3. Testing 
+        8. RAID
             1. Hardware vs. Software RAID
             2. Filesystems
-            3. Failure Mechanisms   
+            3. Failure Mechanisms
+    2. Networking
+        1. VLANs
