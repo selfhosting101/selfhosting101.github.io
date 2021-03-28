@@ -14,6 +14,7 @@
         5. File Systems
         6. BIOS
         7. OS
+            1. Command-line/Terminal
         8. Out of Band Management
     5. Networking Basics
         1. TCP/IP
