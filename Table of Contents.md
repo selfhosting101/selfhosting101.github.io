@@ -23,7 +23,18 @@
         4. HTTP
         5. TLS
 3. Self-Hosting
-    1. All the meat of self-hosting?
+    1. Services and Daemons
+    2. Docker
+        1. Introduction
+        2. Docker Run
+        3. Docker Compose
+        4. Docker Front Ends
+    3. Reverse Proxies
+        1. Introduction
+        2. Caddy
+        3. nginx (Proxy Manager)
+        4. Traefik
+    4. ??
 4. Advanced Fundamentals
     1. Data Storage
         1. SATA and SAS
@@ -43,14 +54,22 @@
         1. MAC Addresses
         2. DHCP
         3. ARP
-        4. VXLAN
-        5. VLAN
+        4. VLAN
+        5. VXLAN
     3. Virtualization
     4. Containers
-    5. Hardware
+    5. Authentication and Single Sign-On
+        1. LDAP
+        2. OIDC, OAUTH2, and SAML
+        3. Kerberos
+        4. GSSAPI and SPNEGO
+    6. Hardware
         1. Rackmount Server
             1. Enterprise
             2. Custom
         2. NAS
         3. Desktops/Workstations
         4. SBCs
+    7. High Availability
+        1. Networking
+        2. Docker Swarm
