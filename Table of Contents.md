@@ -15,7 +15,6 @@
         6. BIOS
         7. OS
             1. Command-line/Terminal
-        8. Out of Band Management
     5. Networking Basics
         1. TCP/IP
         2. Routing
@@ -34,7 +33,10 @@
         2. Caddy
         3. nginx (Proxy Manager)
         4. Traefik
-    4. ??
+    4. Accessing Services
+        1. Authentication and Security
+        2. Port Forwarding
+        3. VPN
 4. Advanced Fundamentals
     1. Data Storage
         1. SATA and SAS
@@ -73,3 +75,4 @@
     7. High Availability
         1. Networking
         2. Docker Swarm
+        3. Kubernetes
