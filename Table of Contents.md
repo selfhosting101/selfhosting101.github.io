@@ -47,7 +47,8 @@
         6. Backups
             1. 3-2-1 Backup Policy
             2. Consistency (i.e. snapshotting/database dumps)
-            3. Testing 
+            3. Testing
+            4. Healthchecks (.io)
         8. RAID
             1. Hardware vs. Software RAID
             2. Filesystems
